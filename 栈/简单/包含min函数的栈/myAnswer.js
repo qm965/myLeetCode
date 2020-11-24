@@ -1,3 +1,6 @@
+// 撒了，头部插入头部删除不好吗，length-1的索引方式有点脑残
+
+
 /**
  * initialize your data structure here.
  */
